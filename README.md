@@ -25,6 +25,6 @@ Your feedback is greatly appreciated! 🫰🏻
 ## 📫 Contact
 
 Feel free to reach out through the contact form on the website or connect with me through:
-LinkedIn : www.linkedin.com/in/atchaya-c
-Livelink: https://atchayachandran.github.io/Portfolio/ 
+LinkedIn : www.linkedin.com/in/atchaya-c |
+Livelink: https://atchayachandran.github.io/Portfolio/ |
 Email : @akshayalinkedin1@gmail.com
