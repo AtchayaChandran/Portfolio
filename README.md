@@ -26,5 +26,5 @@ Your feedback is greatly appreciated! 🫰🏻
 
 Feel free to reach out through the contact form on the website or connect with me through:
 LinkedIn : www.linkedin.com/in/atchaya-c
-Live Demo link: https://atchayachandran.github.io/Portfolio/ 
+Live Demo Prject link: https://atchayachandran.github.io/Portfolio/ 
 Email : @akshayalinkedin1@gmail.com
