@@ -1,0 +1,170 @@
+* {
+   padding: 0;
+   margin: 0;
+}
+
+body {
+   font-family: "Young Serif", serif;
+}
+
+.container {
+   padding: 50px;
+}
+
+.section_one {
+   background-image:
+      url("https://i.postimg.cc/QtPD6gbZ/i-want-a-background-image-for-my-web-developer-portfolio-it-want-s-to-be-very-unique-something-with.jpg");
+   height: 30vh;
+   background-size:cover;
+   color: azure;
+   padding: 30px;
+   padding-top: 105px;
+}
+
+.section_one_name {
+   font-size: 45px;
+
+}
+
+.about_para {
+   font-family: "Satisfy", cursive;
+   font-size: 22px;
+   font-weight: bold;
+
+}
+
+.section_one_rol_sec {
+   padding-bottom: 10px;
+   font-weight: bold;
+   font-size: 35px;
+   padding-top: 10px;
+   margin-bottom: 10px;
+}
+
+.section_one_contact {
+   color: black;
+   background-color: #F6D09F;
+   text-decoration: none;
+   padding: 8px;
+   border-radius: 10px;
+   display: inline-block;
+   font-family: "Young Serif", serif;
+   font-weight: bold;
+}
+
+.shadow-box {
+   background-color: #fce4ec;
+   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+   border-radius: 12px;
+}
+
+.about_section,
+.my_intrest,
+.my_project_section,
+.last_section {
+   margin-top: 20px;
+}
+
+.about_para,
+.my_intrest_head,
+.my_project_head{
+   margin-top: 20px;
+}
+
+
+
+.social_media {
+   background-color: #B58494;
+   padding: 25px;
+   margin-top: 10px;
+}
+
+.links_color {
+   color: white;
+   text-decoration: none;
+   font-weight:300px;
+   font-size:20px;
+}
+
+.media_last {
+   font-size: 17px;
+}
+
+.copy_section {
+   font-size: 15px;
+}
+
+.my_project_listt,
+.my_intrest_listt {
+   list-style: none;
+}
+
+.my_intrest{
+   background-color:#4B0E2C;
+   color:whitesmoke;
+   padding:20px;
+   display:inline-block;
+   height:200px;
+   border-radius:20px;
+   vertical-align: top;
+}
+.my_project_section{
+   background-color:#20466D;
+   color:whitesmoke;
+   padding:20px;
+   display:inline-block;
+   height:200px;
+   border-radius:20px;
+   vertical-align: top;
+}
+
+.section_one_co{
+   background-color:#1e1e2f;
+   color: azure;
+   padding:20px;
+   display:block;
+}
+.my_project_listt{
+   font-size:16px;
+}
+
+.contact_form{
+   margin-top:20px;
+}
+.contact_form__input,.contact_form__text,.contact_form__submit{
+   margin-top:10px;
+}
+.contact_form__input{
+   padding:10px;
+   border:none;
+   border-bottom: solid black 1px;
+}
+
+.contact_form__text{
+   padding:10px;
+   border:none;
+   border: solid black 1px;
+}
+
+.contact_form__submit{
+   background: linear-gradient(135deg, #6e8efb, #a777e3);
+   color: white;
+   padding: 12px 30px;
+   font-size: 18px;
+   font-weight: bold;
+   border: none;
+   border-radius: 50px;
+   text-decoration: none;
+   display: inline-block;
+   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+   transition: all 0.3s ease;
+   font-family: "Young Serif", serif;
+   letter-spacing: 1px;
+   cursor: pointer;
+}
+
+.contact_form__submit:hover {
+   transform: scale(1.05);
+   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+   background: linear-gradient(135deg, #a777e3, #6e8efb);
+}
