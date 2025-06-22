@@ -25,4 +25,4 @@ Your feedback is greatly appreciated! 🫰🏻
 ## 📫 Contact
 
 Feel free to reach out through the contact form on the website or connect with me through:
-\[🔗 LinkedIn] | \[ https://atchayachandran.github.io/Portfolio/] | \[@akshayalinkedin1@gmail.com]
+\[🔗 LinkedIn] | \[https://atchayachandran.github.io/Portfolio/] | \[@akshayalinkedin1@gmail.com]
